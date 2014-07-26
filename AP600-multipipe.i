@@ -3,7 +3,7 @@
 *atmosphere test
 *air and steam no helium
 *aluminum propersity
-*Initial condition Ptotal=1.0bar Tbulk=60.65C
+**vertical 6 heat structures,horizonatal 1 heat structure
 
 1    25
 100  new  transnt  *stdy-st   
